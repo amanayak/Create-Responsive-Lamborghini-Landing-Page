@@ -1,5 +1,5 @@
 # Responsive Car Landing Page
-## [LIVE PREVIEW](https://github.com/amanayak/Create-Responsive-Lamborghini-Landing-Page)
+## [LIVE PREVIEW](https://codinggujaratweb.github.io/Create-Responsive-Lamborghini-Landing-Page/)
 ### Responsive Car Landing Page
 
 - Responsive Car Landing Page Using HTML CSS & JavaScript
